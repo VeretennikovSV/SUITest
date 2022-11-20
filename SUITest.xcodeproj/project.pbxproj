@@ -11,6 +11,16 @@
 		0971EEEB29275F3000E966CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EEEA29275F3000E966CC /* ContentView.swift */; };
 		0971EEED29275F3500E966CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0971EEEC29275F3500E966CC /* Assets.xcassets */; };
 		0971EEF029275F3500E966CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0971EEEF29275F3500E966CC /* Preview Assets.xcassets */; };
+		0971EEF7292765FF00E966CC /* Modifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EEF6292765FE00E966CC /* Modifiers.swift */; };
+		0971EEF92927691500E966CC /* Selector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EEF82927691500E966CC /* Selector.swift */; };
+		0971EEFB29277B8A00E966CC /* CarModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EEFA29277B8A00E966CC /* CarModel.swift */; };
+		0971EEFD29277C8600E966CC /* DoubleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EEFC29277C8600E966CC /* DoubleButton.swift */; };
+		0971EEFF29277EC200E966CC /* CarSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EEFE29277EC200E966CC /* CarSelector.swift */; };
+		0971EF0129277FB700E966CC /* ShinyChevron.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EF0029277FB700E966CC /* ShinyChevron.swift */; };
+		0971EF03292796FC00E966CC /* Charastericts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EF02292796FB00E966CC /* Charastericts.swift */; };
+		0971EF052927C29000E966CC /* CarPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EF042927C29000E966CC /* CarPreview.swift */; };
+		0971EF072927C48D00E966CC /* LevelCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EF062927C48D00E966CC /* LevelCircle.swift */; };
+		0971EF092927DA4F00E966CC /* TotalExp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0971EF082927DA4F00E966CC /* TotalExp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +29,16 @@
 		0971EEEA29275F3000E966CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0971EEEC29275F3500E966CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0971EEEF29275F3500E966CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0971EEF6292765FE00E966CC /* Modifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modifiers.swift; sourceTree = "<group>"; };
+		0971EEF82927691500E966CC /* Selector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selector.swift; sourceTree = "<group>"; };
+		0971EEFA29277B8A00E966CC /* CarModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModel.swift; sourceTree = "<group>"; };
+		0971EEFC29277C8600E966CC /* DoubleButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoubleButton.swift; sourceTree = "<group>"; };
+		0971EEFE29277EC200E966CC /* CarSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarSelector.swift; sourceTree = "<group>"; };
+		0971EF0029277FB700E966CC /* ShinyChevron.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShinyChevron.swift; sourceTree = "<group>"; };
+		0971EF02292796FB00E966CC /* Charastericts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Charastericts.swift; sourceTree = "<group>"; };
+		0971EF042927C29000E966CC /* CarPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarPreview.swift; sourceTree = "<group>"; };
+		0971EF062927C48D00E966CC /* LevelCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelCircle.swift; sourceTree = "<group>"; };
+		0971EF082927DA4F00E966CC /* TotalExp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalExp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +75,16 @@
 				0971EEEA29275F3000E966CC /* ContentView.swift */,
 				0971EEEC29275F3500E966CC /* Assets.xcassets */,
 				0971EEEE29275F3500E966CC /* Preview Content */,
+				0971EEF6292765FE00E966CC /* Modifiers.swift */,
+				0971EEF82927691500E966CC /* Selector.swift */,
+				0971EEFA29277B8A00E966CC /* CarModel.swift */,
+				0971EEFC29277C8600E966CC /* DoubleButton.swift */,
+				0971EEFE29277EC200E966CC /* CarSelector.swift */,
+				0971EF0029277FB700E966CC /* ShinyChevron.swift */,
+				0971EF02292796FB00E966CC /* Charastericts.swift */,
+				0971EF042927C29000E966CC /* CarPreview.swift */,
+				0971EF062927C48D00E966CC /* LevelCircle.swift */,
+				0971EF082927DA4F00E966CC /* TotalExp.swift */,
 			);
 			path = SUITest;
 			sourceTree = "<group>";
@@ -138,7 +168,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0971EEEB29275F3000E966CC /* ContentView.swift in Sources */,
+				0971EEFB29277B8A00E966CC /* CarModel.swift in Sources */,
+				0971EF092927DA4F00E966CC /* TotalExp.swift in Sources */,
+				0971EEFD29277C8600E966CC /* DoubleButton.swift in Sources */,
+				0971EF052927C29000E966CC /* CarPreview.swift in Sources */,
+				0971EF072927C48D00E966CC /* LevelCircle.swift in Sources */,
+				0971EEF7292765FF00E966CC /* Modifiers.swift in Sources */,
+				0971EEF92927691500E966CC /* Selector.swift in Sources */,
+				0971EF0129277FB700E966CC /* ShinyChevron.swift in Sources */,
+				0971EEFF29277EC200E966CC /* CarSelector.swift in Sources */,
 				0971EEE929275F3000E966CC /* SUITestApp.swift in Sources */,
+				0971EF03292796FC00E966CC /* Charastericts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +315,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +345,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
